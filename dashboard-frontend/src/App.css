@@ -1,0 +1,75 @@
+/* .app {
+  font-family: Arial, sans-serif;
+}
+
+.dashboard {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.left-panel {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.right-panel {
+  flex: 2;
+}
+
+.flight-stats-chart {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  margin-top: 20px;
+} */
+.app {
+  font-family: Arial, sans-serif;
+}
+.h1{
+  text-align: center;
+}
+.top-panel {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.left-panel, .right-panel {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.left-panel:last-child {
+  margin-right: 0;
+}
+
+.dashboard {
+  padding: 20px;
+}
+
+/* .bottom-panel {
+  padding: 20px;
+}
+
+.flight-stats-chart {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  margin-top: 20px;
+} */
+
+.bottom-panel {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flight-stats-chart {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  width: 90%; /* Adjust the width */
+  height: 500px; /* Adjust the height */
+}
