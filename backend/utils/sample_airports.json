@@ -1,0 +1,3002 @@
+{
+  "0": {
+    "Name": "EMBRAER - Unidade Gavião Peixoto Airport",
+    "Latitude": "-21.77370071",
+    "Longitude": "-48.40510178"
+  },
+  "GKA": {
+    "Name": "Goroka Airport",
+    "Latitude": "-6.081689835",
+    "Longitude": "145.3919983"
+  },
+  "MAG": {
+    "Name": "Madang Airport",
+    "Latitude": "-5.207079887",
+    "Longitude": "145.7890015"
+  },
+  "HGU": {
+    "Name": "Mount Hagen Kagamuga Airport",
+    "Latitude": "-5.826789856",
+    "Longitude": "144.2960052"
+  },
+  "LAE": {
+    "Name": "Nadzab Airport",
+    "Latitude": "-6.569803",
+    "Longitude": "146.725977"
+  },
+  "POM": {
+    "Name": "Port Moresby Jacksons International Airport",
+    "Latitude": "-9.443380356",
+    "Longitude": "147.2200012"
+  },
+  "WWK": {
+    "Name": "Wewak International Airport",
+    "Latitude": "-3.583830118",
+    "Longitude": "143.6690063"
+  },
+  "UAK": {
+    "Name": "Narsarsuaq Airport",
+    "Latitude": "61.16049957",
+    "Longitude": "-45.42599869"
+  },
+  "GOH": {
+    "Name": "Godthaab / Nuuk Airport",
+    "Latitude": "64.19090271",
+    "Longitude": "-51.67810059"
+  },
+  "SFJ": {
+    "Name": "Kangerlussuaq Airport",
+    "Latitude": "67.0122219",
+    "Longitude": "-50.71160316"
+  },
+  "THU": {
+    "Name": "Thule Air Base",
+    "Latitude": "76.53119659",
+    "Longitude": "-68.70320129"
+  },
+  "AEY": {
+    "Name": "Akureyri Airport",
+    "Latitude": "65.66000366",
+    "Longitude": "-18.0727005"
+  },
+  "EGS": {
+    "Name": "Egilssta�ir Airport",
+    "Latitude": "65.28330231",
+    "Longitude": "-14.40139961"
+  },
+  "HFN": {
+    "Name": "Hornafj�r�ur Airport",
+    "Latitude": "64.295601",
+    "Longitude": "-15.2272"
+  },
+  "HZK": {
+    "Name": "H�sav�k Airport",
+    "Latitude": "65.952301",
+    "Longitude": "-17.426001"
+  },
+  "IFJ": {
+    "Name": "�safj�r�ur Airport",
+    "Latitude": "66.05809784",
+    "Longitude": "-23.13529968"
+  },
+  "KEF": {
+    "Name": "Keflavik International Airport",
+    "Latitude": "63.98500061",
+    "Longitude": "-22.60560036"
+  },
+  "PFJ": {
+    "Name": "Patreksfj�r�ur Airport",
+    "Latitude": "65.555801",
+    "Longitude": "-23.965"
+  },
+  "RKV": {
+    "Name": "Reykjavik Airport",
+    "Latitude": "64.12999725",
+    "Longitude": "-21.94059944"
+  },
+  "SIJ": {
+    "Name": "Siglufj�r�ur Airport",
+    "Latitude": "66.133301",
+    "Longitude": "-18.9167"
+  },
+  "VEY": {
+    "Name": "Vestmannaeyjar Airport",
+    "Latitude": "63.42430115",
+    "Longitude": "-20.27890015"
+  },
+  "YAM": {
+    "Name": "Sault Ste Marie Airport",
+    "Latitude": "46.48500061",
+    "Longitude": "-84.50939941"
+  },
+  "YAY": {
+    "Name": "St. Anthony Airport",
+    "Latitude": "51.39189911",
+    "Longitude": "-56.08309937"
+  },
+  "YAZ": {
+    "Name": "Tofino / Long Beach Airport",
+    "Latitude": "49.079833",
+    "Longitude": "-125.775583"
+  },
+  "YBB": {
+    "Name": "Kugaaruk Airport",
+    "Latitude": "68.534401",
+    "Longitude": "-89.808098"
+  },
+  "YBC": {
+    "Name": "Baie Comeau Airport",
+    "Latitude": "49.13249969",
+    "Longitude": "-68.20439911"
+  },
+  "YBG": {
+    "Name": "CFB Bagotville",
+    "Latitude": "48.33060074",
+    "Longitude": "-70.99639893"
+  },
+  "YBK": {
+    "Name": "Baker Lake Airport",
+    "Latitude": "64.29889679",
+    "Longitude": "-96.07779694"
+  },
+  "YBL": {
+    "Name": "Campbell River Airport",
+    "Latitude": "49.95080185",
+    "Longitude": "-125.2710037"
+  },
+  "YBR": {
+    "Name": "Brandon Municipal Airport",
+    "Latitude": "49.91",
+    "Longitude": "-99.951897"
+  },
+  "YCB": {
+    "Name": "Cambridge Bay Airport",
+    "Latitude": "69.10810089",
+    "Longitude": "-105.1380005"
+  },
+  "YCD": {
+    "Name": "Nanaimo Airport",
+    "Latitude": "49.05497022",
+    "Longitude": "-123.8698626"
+  },
+  "YCG": {
+    "Name": "Castlegar/West Kootenay Regional Airport",
+    "Latitude": "49.29639816",
+    "Longitude": "-117.6320038"
+  },
+  "YCH": {
+    "Name": "Miramichi Airport",
+    "Latitude": "47.007801",
+    "Longitude": "-65.449203"
+  },
+  "YCL": {
+    "Name": "Charlo Airport",
+    "Latitude": "47.990799",
+    "Longitude": "-66.330299"
+  },
+  "YCO": {
+    "Name": "Kugluktuk Airport",
+    "Latitude": "67.816704",
+    "Longitude": "-115.143997"
+  },
+  "YCT": {
+    "Name": "Coronation Airport",
+    "Latitude": "52.07500076",
+    "Longitude": "-111.4449997"
+  },
+  "YCW": {
+    "Name": "Chilliwack Airport",
+    "Latitude": "49.15280151",
+    "Longitude": "-121.939003"
+  },
+  "YCY": {
+    "Name": "Clyde River Airport",
+    "Latitude": "70.48609924",
+    "Longitude": "-68.51670074"
+  },
+  "YZS": {
+    "Name": "Coral Harbour Airport",
+    "Latitude": "64.19329834",
+    "Longitude": "-83.35939789"
+  },
+  "YDA": {
+    "Name": "Dawson City Airport",
+    "Latitude": "64.04309845",
+    "Longitude": "-139.128006"
+  },
+  "YDB": {
+    "Name": "Burwash Airport",
+    "Latitude": "61.37110138",
+    "Longitude": "-139.0410004"
+  },
+  "YDF": {
+    "Name": "Deer Lake Airport",
+    "Latitude": "49.21080017",
+    "Longitude": "-57.39139938"
+  },
+  "YDL": {
+    "Name": "Dease Lake Airport",
+    "Latitude": "58.42219925",
+    "Longitude": "-130.0319977"
+  },
+  "YDN": {
+    "Name": "Dauphin Barker Airport",
+    "Latitude": "51.10079956",
+    "Longitude": "-100.052002"
+  },
+  "YDQ": {
+    "Name": "Dawson Creek Airport",
+    "Latitude": "55.74229813",
+    "Longitude": "-120.1829987"
+  },
+  "YEG": {
+    "Name": "Edmonton International Airport",
+    "Latitude": "53.30970001",
+    "Longitude": "-113.5800018"
+  },
+  "YEK": {
+    "Name": "Arviat Airport",
+    "Latitude": "61.09420013",
+    "Longitude": "-94.07080078"
+  },
+  "YEN": {
+    "Name": "Estevan Airport",
+    "Latitude": "49.21030045",
+    "Longitude": "-102.9660034"
+  },
+  "YET": {
+    "Name": "Edson Airport",
+    "Latitude": "53.57889938",
+    "Longitude": "-116.4649963"
+  },
+  "YEU": {
+    "Name": "Eureka Airport",
+    "Latitude": "79.99469757",
+    "Longitude": "-85.81420136"
+  },
+  "YEV": {
+    "Name": "Inuvik Mike Zubko Airport",
+    "Latitude": "68.30419922",
+    "Longitude": "-133.4830017"
+  },
+  "YFB": {
+    "Name": "Iqaluit Airport",
+    "Latitude": "63.756402",
+    "Longitude": "-68.555801"
+  },
+  "YFC": {
+    "Name": "Fredericton Airport",
+    "Latitude": "45.8689003",
+    "Longitude": "-66.53720093"
+  },
+  "YFE": {
+    "Name": "Forestville Airport",
+    "Latitude": "48.74610138",
+    "Longitude": "-69.09719849"
+  },
+  "YFO": {
+    "Name": "Flin Flon Airport",
+    "Latitude": "54.67810059",
+    "Longitude": "-101.6819992"
+  },
+  "YFR": {
+    "Name": "Fort Resolution Airport",
+    "Latitude": "61.18080139",
+    "Longitude": "-113.6900024"
+  },
+  "YFS": {
+    "Name": "Fort Simpson Airport",
+    "Latitude": "61.7602005",
+    "Longitude": "-121.2369995"
+  },
+  "YGK": {
+    "Name": "Kingston Norman Rogers Airport",
+    "Latitude": "44.22529984",
+    "Longitude": "-76.59690094"
+  },
+  "YGL": {
+    "Name": "La Grande Rivi�re Airport",
+    "Latitude": "53.62530136",
+    "Longitude": "-77.70420074"
+  },
+  "YGP": {
+    "Name": "Gasp� (Michel-Pouliot) Airport",
+    "Latitude": "48.77529907",
+    "Longitude": "-64.47859955"
+  },
+  "YGQ": {
+    "Name": "Geraldton Greenstone Regional Airport",
+    "Latitude": "49.77830124",
+    "Longitude": "-86.93939972"
+  },
+  "YGR": {
+    "Name": "�les-de-la-Madeleine Airport",
+    "Latitude": "47.42470169",
+    "Longitude": "-61.77809906"
+  },
+  "YHB": {
+    "Name": "Hudson Bay Airport",
+    "Latitude": "52.81669998",
+    "Longitude": "-102.310997"
+  },
+  "YHD": {
+    "Name": "Dryden Regional Airport",
+    "Latitude": "49.831699",
+    "Longitude": "-92.744202"
+  },
+  "YHI": {
+    "Name": "Ulukhaktok Holman Airport",
+    "Latitude": "70.76280212",
+    "Longitude": "-117.8059998"
+  },
+  "YHK": {
+    "Name": "Gjoa Haven Airport",
+    "Latitude": "68.63559723",
+    "Longitude": "-95.84970093"
+  },
+  "YHM": {
+    "Name": "John C. Munro Hamilton International Airport",
+    "Latitude": "43.17359924",
+    "Longitude": "-79.93499756"
+  },
+  "YHU": {
+    "Name": "Montr�al / Saint-Hubert Airport",
+    "Latitude": "45.51750183",
+    "Longitude": "-73.41690063"
+  },
+  "YHY": {
+    "Name": "Hay River / Merlyn Carter Airport",
+    "Latitude": "60.83969879",
+    "Longitude": "-115.7829971"
+  },
+  "YHZ": {
+    "Name": "Halifax / Stanfield International Airport",
+    "Latitude": "44.88079834",
+    "Longitude": "-63.50859833"
+  },
+  "YIB": {
+    "Name": "Atikokan Municipal Airport",
+    "Latitude": "48.77389908",
+    "Longitude": "-91.63860321"
+  },
+  "YIO": {
+    "Name": "Pond Inlet Airport",
+    "Latitude": "72.6832962",
+    "Longitude": "-77.96669769"
+  },
+  "YJN": {
+    "Name": "St Jean Airport",
+    "Latitude": "45.29439926",
+    "Longitude": "-73.28109741"
+  },
+  "YJT": {
+    "Name": "Stephenville Airport",
+    "Latitude": "48.5442009",
+    "Longitude": "-58.54999924"
+  },
+  "YKA": {
+    "Name": "Kamloops Airport",
+    "Latitude": "50.70220184",
+    "Longitude": "-120.4440002"
+  },
+  "YKF": {
+    "Name": "Waterloo Airport",
+    "Latitude": "43.46080017",
+    "Longitude": "-80.37860107"
+  },
+  "YKL": {
+    "Name": "Schefferville Airport",
+    "Latitude": "54.80530167",
+    "Longitude": "-66.80529785"
+  },
+  "YKY": {
+    "Name": "Kindersley Airport",
+    "Latitude": "51.51750183",
+    "Longitude": "-109.1809998"
+  },
+  "YKZ": {
+    "Name": "Buttonville Municipal Airport",
+    "Latitude": "43.86220169",
+    "Longitude": "-79.37000275"
+  },
+  "YLD": {
+    "Name": "Chapleau Airport",
+    "Latitude": "47.81999969",
+    "Longitude": "-83.34670258"
+  },
+  "YLJ": {
+    "Name": "Meadow Lake Airport",
+    "Latitude": "54.12530136",
+    "Longitude": "-108.5230026"
+  },
+  "YLL": {
+    "Name": "Lloydminster Airport",
+    "Latitude": "53.30920029",
+    "Longitude": "-110.072998"
+  },
+  "YLT": {
+    "Name": "Alert Airport",
+    "Latitude": "82.51779938",
+    "Longitude": "-62.2806015"
+  },
+  "YLW": {
+    "Name": "Kelowna International Airport",
+    "Latitude": "49.95610046",
+    "Longitude": "-119.3779984"
+  },
+  "YMA": {
+    "Name": "Mayo Airport",
+    "Latitude": "63.61640167",
+    "Longitude": "-135.8679962"
+  },
+  "YMJ": {
+    "Name": "Moose Jaw Air Vice Marshal C. M. McEwen Airport",
+    "Latitude": "50.33029938",
+    "Longitude": "-105.5589981"
+  },
+  "YMM": {
+    "Name": "Fort McMurray Airport",
+    "Latitude": "56.65330124",
+    "Longitude": "-111.2220001"
+  },
+  "YMO": {
+    "Name": "Moosonee Airport",
+    "Latitude": "51.29109955",
+    "Longitude": "-80.60780334"
+  },
+  "YMW": {
+    "Name": "Maniwaki Airport",
+    "Latitude": "46.27280045",
+    "Longitude": "-75.99060059"
+  },
+  "YMX": {
+    "Name": "Montreal International (Mirabel) Airport",
+    "Latitude": "45.679501",
+    "Longitude": "-74.038696"
+  },
+  "YNA": {
+    "Name": "Natashquan Airport",
+    "Latitude": "50.18999863",
+    "Longitude": "-61.78919983"
+  },
+  "YND": {
+    "Name": "Ottawa / Gatineau Airport",
+    "Latitude": "45.52170181",
+    "Longitude": "-75.56359863"
+  },
+  "YNM": {
+    "Name": "Matagami Airport",
+    "Latitude": "49.76169968",
+    "Longitude": "-77.80280304"
+  },
+  "YOC": {
+    "Name": "Old Crow Airport",
+    "Latitude": "67.57060242",
+    "Longitude": "-139.8390045"
+  },
+  "YOD": {
+    "Name": "CFB Cold Lake",
+    "Latitude": "54.40499878",
+    "Longitude": "-110.2789993"
+  },
+  "YOJ": {
+    "Name": "High Level Airport",
+    "Latitude": "58.62139893",
+    "Longitude": "-117.1650009"
+  },
+  "YOW": {
+    "Name": "Ottawa Macdonald-Cartier International Airport",
+    "Latitude": "45.32249832",
+    "Longitude": "-75.66919708"
+  },
+  "YPA": {
+    "Name": "Prince Albert Glass Field",
+    "Latitude": "53.21419907",
+    "Longitude": "-105.6729965"
+  },
+  "YPE": {
+    "Name": "Peace River Airport",
+    "Latitude": "56.226898",
+    "Longitude": "-117.446999"
+  },
+  "YPG": {
+    "Name": "Southport Airport",
+    "Latitude": "49.903099",
+    "Longitude": "-98.273817"
+  },
+  "YPL": {
+    "Name": "Pickle Lake Airport",
+    "Latitude": "51.44639969",
+    "Longitude": "-90.21420288"
+  },
+  "YPN": {
+    "Name": "Port Menier Airport",
+    "Latitude": "49.83639908",
+    "Longitude": "-64.28859711"
+  },
+  "YPQ": {
+    "Name": "Peterborough Airport",
+    "Latitude": "44.22999954",
+    "Longitude": "-78.36329651"
+  },
+  "YPR": {
+    "Name": "Prince Rupert Airport",
+    "Latitude": "54.28609848",
+    "Longitude": "-130.4450073"
+  },
+  "YPY": {
+    "Name": "Fort Chipewyan Airport",
+    "Latitude": "58.76720047",
+    "Longitude": "-111.1169968"
+  },
+  "YQA": {
+    "Name": "Muskoka Airport",
+    "Latitude": "44.97470093",
+    "Longitude": "-79.30329895"
+  },
+  "YQB": {
+    "Name": "Quebec Jean Lesage International Airport",
+    "Latitude": "46.7911",
+    "Longitude": "-71.393303"
+  },
+  "YQF": {
+    "Name": "Red Deer Regional Airport",
+    "Latitude": "52.18220139",
+    "Longitude": "-113.8939972"
+  },
+  "YQG": {
+    "Name": "Windsor Airport",
+    "Latitude": "42.27560043",
+    "Longitude": "-82.95559692"
+  },
+  "YQH": {
+    "Name": "Watson Lake Airport",
+    "Latitude": "60.11640167",
+    "Longitude": "-128.8220062"
+  },
+  "YQK": {
+    "Name": "Kenora Airport",
+    "Latitude": "49.78829956",
+    "Longitude": "-94.36309814"
+  },
+  "YQL": {
+    "Name": "Lethbridge County Airport",
+    "Latitude": "49.63029861",
+    "Longitude": "-112.8000031"
+  },
+  "YQM": {
+    "Name": "Greater Moncton International Airport",
+    "Latitude": "46.11220169",
+    "Longitude": "-64.6785965"
+  },
+  "YQQ": {
+    "Name": "Comox Airport",
+    "Latitude": "49.71080017",
+    "Longitude": "-124.887001"
+  },
+  "YQR": {
+    "Name": "Regina International Airport",
+    "Latitude": "50.43190002",
+    "Longitude": "-104.6660004"
+  },
+  "YQT": {
+    "Name": "Thunder Bay Airport",
+    "Latitude": "48.37189865",
+    "Longitude": "-89.32389832"
+  },
+  "YQU": {
+    "Name": "Grande Prairie Airport",
+    "Latitude": "55.17969894",
+    "Longitude": "-118.8850021"
+  },
+  "YQV": {
+    "Name": "Yorkton Municipal Airport",
+    "Latitude": "51.26470184",
+    "Longitude": "-102.461998"
+  },
+  "YQW": {
+    "Name": "North Battleford Airport",
+    "Latitude": "52.76919937",
+    "Longitude": "-108.2440033"
+  },
+  "YQX": {
+    "Name": "Gander International Airport",
+    "Latitude": "48.93690109",
+    "Longitude": "-54.56809998"
+  },
+  "YQY": {
+    "Name": "Sydney / J.A. Douglas McCurdy Airport",
+    "Latitude": "46.1614",
+    "Longitude": "-60.047798"
+  },
+  "YQZ": {
+    "Name": "Quesnel Airport",
+    "Latitude": "53.02610016",
+    "Longitude": "-122.5100021"
+  },
+  "YRB": {
+    "Name": "Resolute Bay Airport",
+    "Latitude": "74.71690369",
+    "Longitude": "-94.9693985"
+  },
+  "YRI": {
+    "Name": "Rivi�re-du-Loup Airport",
+    "Latitude": "47.76440048",
+    "Longitude": "-69.58470154"
+  },
+  "YRJ": {
+    "Name": "Roberval Airport",
+    "Latitude": "48.52000046",
+    "Longitude": "-72.26560211"
+  },
+  "YRM": {
+    "Name": "Rocky Mountain House Airport",
+    "Latitude": "52.42969894",
+    "Longitude": "-114.9039993"
+  },
+  "YRT": {
+    "Name": "Rankin Inlet Airport",
+    "Latitude": "62.81140137",
+    "Longitude": "-92.11579895"
+  },
+  "YSB": {
+    "Name": "Sudbury Airport",
+    "Latitude": "46.625",
+    "Longitude": "-80.79889679"
+  },
+  "YSC": {
+    "Name": "Sherbrooke Airport",
+    "Latitude": "45.43859863",
+    "Longitude": "-71.69139862"
+  },
+  "YSJ": {
+    "Name": "Saint John Airport",
+    "Latitude": "45.31610107",
+    "Longitude": "-65.89029694"
+  },
+  "YSM": {
+    "Name": "Fort Smith Airport",
+    "Latitude": "60.02030182",
+    "Longitude": "-111.961998"
+  },
+  "YSR": {
+    "Name": "Nanisivik Airport",
+    "Latitude": "72.982201",
+    "Longitude": "-84.613602"
+  },
+  "YSU": {
+    "Name": "Summerside Airport",
+    "Latitude": "46.44060135",
+    "Longitude": "-63.83359909"
+  },
+  "YSY": {
+    "Name": "Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport",
+    "Latitude": "71.99389648",
+    "Longitude": "-125.2429962"
+  },
+  "YTE": {
+    "Name": "Cape Dorset Airport",
+    "Latitude": "64.23000336",
+    "Longitude": "-76.52670288"
+  },
+  "YTH": {
+    "Name": "Thompson Airport",
+    "Latitude": "55.80110168",
+    "Longitude": "-97.86419678"
+  },
+  "YTR": {
+    "Name": "CFB Trenton",
+    "Latitude": "44.1189003",
+    "Longitude": "-77.52809906"
+  },
+  "YTS": {
+    "Name": "Timmins/Victor M. Power",
+    "Latitude": "48.56969833",
+    "Longitude": "-81.37670136"
+  },
+  "YTZ": {
+    "Name": "Billy Bishop Toronto City Centre Airport",
+    "Latitude": "43.627499",
+    "Longitude": "-79.396202"
+  },
+  "YUB": {
+    "Name": "Tuktoyaktuk Airport",
+    "Latitude": "69.4332962",
+    "Longitude": "-133.026001"
+  },
+  "YUL": {
+    "Name": "Montreal / Pierre Elliott Trudeau International Airport",
+    "Latitude": "45.47060013",
+    "Longitude": "-73.74079895"
+  },
+  "YUT": {
+    "Name": "Repulse Bay Airport",
+    "Latitude": "66.52140045",
+    "Longitude": "-86.22470093"
+  },
+  "YUX": {
+    "Name": "Hall Beach Airport",
+    "Latitude": "68.77610016",
+    "Longitude": "-81.2425"
+  },
+  "YUY": {
+    "Name": "Rouyn Noranda Airport",
+    "Latitude": "48.20610046",
+    "Longitude": "-78.83560181"
+  },
+  "YVC": {
+    "Name": "La Ronge Airport",
+    "Latitude": "55.15140152",
+    "Longitude": "-105.262001"
+  },
+  "YVG": {
+    "Name": "Vermilion Airport",
+    "Latitude": "53.35580063",
+    "Longitude": "-110.8239975"
+  },
+  "YVM": {
+    "Name": "Qikiqtarjuaq Airport",
+    "Latitude": "67.54579926",
+    "Longitude": "-64.03140259"
+  },
+  "YVO": {
+    "Name": "Val-d'Or Airport",
+    "Latitude": "48.05329895",
+    "Longitude": "-77.78279877"
+  },
+  "YVP": {
+    "Name": "Kuujjuaq Airport",
+    "Latitude": "58.09609985",
+    "Longitude": "-68.42690277"
+  },
+  "YVQ": {
+    "Name": "Norman Wells Airport",
+    "Latitude": "65.28160095",
+    "Longitude": "-126.7979965"
+  },
+  "YVR": {
+    "Name": "Vancouver International Airport",
+    "Latitude": "49.19390106",
+    "Longitude": "-123.1839981"
+  },
+  "YVT": {
+    "Name": "Buffalo Narrows Airport",
+    "Latitude": "55.84189987",
+    "Longitude": "-108.4179993"
+  },
+  "YVV": {
+    "Name": "Wiarton Airport",
+    "Latitude": "44.7458",
+    "Longitude": "-81.107201"
+  },
+  "YWA": {
+    "Name": "Petawawa Airport",
+    "Latitude": "45.95220184",
+    "Longitude": "-77.31919861"
+  },
+  "YWG": {
+    "Name": "Winnipeg / James Armstrong Richardson International Airport",
+    "Latitude": "49.90999985",
+    "Longitude": "-97.23989868"
+  },
+  "YWK": {
+    "Name": "Wabush Airport",
+    "Latitude": "52.9219017",
+    "Longitude": "-66.86440277"
+  },
+  "YWL": {
+    "Name": "Williams Lake Airport",
+    "Latitude": "52.18310165",
+    "Longitude": "-122.0540009"
+  },
+  "YWY": {
+    "Name": "Wrigley Airport",
+    "Latitude": "63.20940018",
+    "Longitude": "-123.4369965"
+  },
+  "YXC": {
+    "Name": "Cranbrook/Canadian Rockies International Airport",
+    "Latitude": "49.6108017",
+    "Longitude": "-115.7819977"
+  },
+  "YXD": {
+    "Name": "Edmonton City Centre (Blatchford Field) Airport",
+    "Latitude": "53.57249832",
+    "Longitude": "-113.5210037"
+  },
+  "YXE": {
+    "Name": "Saskatoon John G. Diefenbaker International Airport",
+    "Latitude": "52.17079926",
+    "Longitude": "-106.6999969"
+  },
+  "YXH": {
+    "Name": "Medicine Hat Airport",
+    "Latitude": "50.01890182",
+    "Longitude": "-110.7210007"
+  },
+  "YXJ": {
+    "Name": "Fort St John Airport",
+    "Latitude": "56.23809814",
+    "Longitude": "-120.7399979"
+  },
+  "YXL": {
+    "Name": "Sioux Lookout Airport",
+    "Latitude": "50.11389923",
+    "Longitude": "-91.90529633"
+  },
+  "YXP": {
+    "Name": "Pangnirtung Airport",
+    "Latitude": "66.14499664",
+    "Longitude": "-65.71360016"
+  },
+  "YXR": {
+    "Name": "Earlton (Timiskaming Regional) Airport",
+    "Latitude": "47.69740065",
+    "Longitude": "-79.84734535"
+  },
+  "YXS": {
+    "Name": "Prince George Airport",
+    "Latitude": "53.88940048",
+    "Longitude": "-122.6790009"
+  },
+  "YXT": {
+    "Name": "Northwest Regional Airport Terrace-Kitimat",
+    "Latitude": "54.468498",
+    "Longitude": "-128.576009"
+  },
+  "YXU": {
+    "Name": "London Airport",
+    "Latitude": "43.035599",
+    "Longitude": "-81.1539"
+  },
+  "YXX": {
+    "Name": "Abbotsford Airport",
+    "Latitude": "49.02529907",
+    "Longitude": "-122.3610001"
+  },
+  "YXY": {
+    "Name": "Whitehorse / Erik Nielsen International Airport",
+    "Latitude": "60.70959854",
+    "Longitude": "-135.0670013"
+  },
+  "YYB": {
+    "Name": "North Bay Jack Garland Airport",
+    "Latitude": "46.363602",
+    "Longitude": "-79.422798"
+  },
+  "YYC": {
+    "Name": "Calgary International Airport",
+    "Latitude": "51.11389923",
+    "Longitude": "-114.0199966"
+  },
+  "YYD": {
+    "Name": "Smithers Airport",
+    "Latitude": "54.8246994",
+    "Longitude": "-127.1829987"
+  },
+  "YYE": {
+    "Name": "Fort Nelson Airport",
+    "Latitude": "58.83639908",
+    "Longitude": "-122.5970001"
+  },
+  "YYF": {
+    "Name": "Penticton Airport",
+    "Latitude": "49.46310043",
+    "Longitude": "-119.6019974"
+  },
+  "YYG": {
+    "Name": "Charlottetown Airport",
+    "Latitude": "46.29000092",
+    "Longitude": "-63.12110138"
+  },
+  "YYH": {
+    "Name": "Taloyoak Airport",
+    "Latitude": "69.54669952",
+    "Longitude": "-93.5766983"
+  },
+  "YYJ": {
+    "Name": "Victoria International Airport",
+    "Latitude": "48.64690018",
+    "Longitude": "-123.4260025"
+  },
+  "YYL": {
+    "Name": "Lynn Lake Airport",
+    "Latitude": "56.86389923",
+    "Longitude": "-101.0759964"
+  },
+  "YYN": {
+    "Name": "Swift Current Airport",
+    "Latitude": "50.29190063",
+    "Longitude": "-107.6910019"
+  },
+  "YYQ": {
+    "Name": "Churchill Airport",
+    "Latitude": "58.73920059",
+    "Longitude": "-94.06500244"
+  },
+  "YYR": {
+    "Name": "Goose Bay Airport",
+    "Latitude": "53.31919861",
+    "Longitude": "-60.42580032"
+  },
+  "YYT": {
+    "Name": "St. John's International Airport",
+    "Latitude": "47.61859894",
+    "Longitude": "-52.75189972"
+  },
+  "YYU": {
+    "Name": "Kapuskasing Airport",
+    "Latitude": "49.41389847",
+    "Longitude": "-82.46749878"
+  },
+  "YYW": {
+    "Name": "Armstrong Airport",
+    "Latitude": "50.29029846",
+    "Longitude": "-88.90969849"
+  },
+  "YYY": {
+    "Name": "Mont Joli Airport",
+    "Latitude": "48.60860062",
+    "Longitude": "-68.20809937"
+  },
+  "YYZ": {
+    "Name": "Lester B. Pearson International Airport",
+    "Latitude": "43.67720032",
+    "Longitude": "-79.63059998"
+  },
+  "YZD": {
+    "Name": "Downsview Airport",
+    "Latitude": "43.74250031",
+    "Longitude": "-79.46559906"
+  },
+  "YZE": {
+    "Name": "Gore Bay Manitoulin Airport",
+    "Latitude": "45.88529968",
+    "Longitude": "-82.56780243"
+  },
+  "YZF": {
+    "Name": "Yellowknife Airport",
+    "Latitude": "62.46279907",
+    "Longitude": "-114.4400024"
+  },
+  "YZH": {
+    "Name": "Slave Lake Airport",
+    "Latitude": "55.29309845",
+    "Longitude": "-114.7770004"
+  },
+  "YZP": {
+    "Name": "Sandspit Airport",
+    "Latitude": "53.25429916",
+    "Longitude": "-131.8139954"
+  },
+  "YZR": {
+    "Name": "Chris Hadfield Airport",
+    "Latitude": "42.99940109",
+    "Longitude": "-82.30889893"
+  },
+  "YZT": {
+    "Name": "Port Hardy Airport",
+    "Latitude": "50.68059921",
+    "Longitude": "-127.3669968"
+  },
+  "YZU": {
+    "Name": "Whitecourt Airport",
+    "Latitude": "54.14390182",
+    "Longitude": "-115.7870026"
+  },
+  "YZV": {
+    "Name": "Sept-�les Airport",
+    "Latitude": "50.22330093",
+    "Longitude": "-66.26560211"
+  },
+  "YZW": {
+    "Name": "Teslin Airport",
+    "Latitude": "60.17279816",
+    "Longitude": "-132.7429962"
+  },
+  "YZX": {
+    "Name": "CFB Greenwood",
+    "Latitude": "44.9844017",
+    "Longitude": "-64.91690063"
+  },
+  "ZFA": {
+    "Name": "Faro Airport",
+    "Latitude": "62.20750046",
+    "Longitude": "-133.3760071"
+  },
+  "ZFM": {
+    "Name": "Fort Mcpherson Airport",
+    "Latitude": "67.40750122",
+    "Longitude": "-134.8609924"
+  },
+  "QLD": {
+    "Name": "Blida Airport",
+    "Latitude": "36.50360107",
+    "Longitude": "2.814169884"
+  },
+  "BUJ": {
+    "Name": "Bou Saada Airport",
+    "Latitude": "35.33250046",
+    "Longitude": "4.206389904"
+  },
+  "BJA": {
+    "Name": "Soummam Airport",
+    "Latitude": "36.7120018",
+    "Longitude": "5.069920063"
+  },
+  "ALG": {
+    "Name": "Houari Boumediene Airport",
+    "Latitude": "36.69100189",
+    "Longitude": "3.215409994"
+  },
+  "DJG": {
+    "Name": "Djanet Inedbirene Airport",
+    "Latitude": "24.292801",
+    "Longitude": "9.45244"
+  },
+  "VVZ": {
+    "Name": "Illizi Takhamalt Airport",
+    "Latitude": "26.7234993",
+    "Longitude": "8.622650146"
+  },
+  "TMR": {
+    "Name": "Aguenar � Hadj Bey Akhamok Airport",
+    "Latitude": "22.81150055",
+    "Longitude": "5.451079845"
+  },
+  "GJL": {
+    "Name": "Jijel Ferhat Abbas Airport",
+    "Latitude": "36.79510117",
+    "Longitude": "5.87361002"
+  },
+  "MZW": {
+    "Name": "Mecheria Airport",
+    "Latitude": "33.53590012",
+    "Longitude": "-0.242353007"
+  },
+  "AAE": {
+    "Name": "Rabah Bitat Airport",
+    "Latitude": "36.822201",
+    "Longitude": "7.809174"
+  },
+  "CZL": {
+    "Name": "Mohamed Boudiaf International Airport",
+    "Latitude": "36.27600098",
+    "Longitude": "6.620389938"
+  },
+  "TEE": {
+    "Name": "Cheikh Larbi T�bessi Airport",
+    "Latitude": "35.43159866",
+    "Longitude": "8.12071991"
+  },
+  "HRM": {
+    "Name": "Hassi R'Mel Airport",
+    "Latitude": "32.93040085",
+    "Longitude": "3.311539888"
+  },
+  "TID": {
+    "Name": "Bou Chekif Airport",
+    "Latitude": "35.34109879",
+    "Longitude": "1.463150024"
+  },
+  "TIN": {
+    "Name": "Tindouf Airport",
+    "Latitude": "27.7003994",
+    "Longitude": "-8.167099953"
+  },
+  "CFK": {
+    "Name": "Ech Cheliff Airport",
+    "Latitude": "36.21269989",
+    "Longitude": "1.331769943"
+  },
+  "TAF": {
+    "Name": "Tafaraoui Airport",
+    "Latitude": "35.54240036",
+    "Longitude": "-0.532278001"
+  },
+  "TLM": {
+    "Name": "Zenata � Messali El Hadj Airport",
+    "Latitude": "35.01670074",
+    "Longitude": "-1.450000048"
+  },
+  "ORN": {
+    "Name": "Es Senia Airport",
+    "Latitude": "35.62390137",
+    "Longitude": "-0.621182978"
+  },
+  "BFW": {
+    "Name": "Sidi Bel Abbes Airport",
+    "Latitude": "35.17179871",
+    "Longitude": "-0.593275011"
+  },
+  "MUW": {
+    "Name": "Ghriss Airport",
+    "Latitude": "35.20769882",
+    "Longitude": "0.147141993"
+  },
+  "AZR": {
+    "Name": "Touat Cheikh Sidi Mohamed Belkebir Airport",
+    "Latitude": "27.83760071",
+    "Longitude": "-0.186414003"
+  },
+  "BSK": {
+    "Name": "Biskra Airport",
+    "Latitude": "34.79330063",
+    "Longitude": "5.738230228"
+  },
+  "ELG": {
+    "Name": "El Golea Airport",
+    "Latitude": "30.57130051",
+    "Longitude": "2.859590054"
+  },
+  "GHA": {
+    "Name": "Noum�rat - Moufdi Zakaria Airport",
+    "Latitude": "32.38410187",
+    "Longitude": "3.79411006"
+  },
+  "HME": {
+    "Name": "Oued Irara Airport",
+    "Latitude": "31.67300034",
+    "Longitude": "6.140439987"
+  },
+  "INZ": {
+    "Name": "In Salah Airport",
+    "Latitude": "27.25099945",
+    "Longitude": "2.512020111"
+  },
+  "TGR": {
+    "Name": "Touggourt Sidi Madhi Airport",
+    "Latitude": "33.06779861",
+    "Longitude": "6.088669777"
+  },
+  "LOO": {
+    "Name": "Laghouat Airport",
+    "Latitude": "33.76440048",
+    "Longitude": "2.928339958"
+  },
+  "TMX": {
+    "Name": "Timimoun Airport",
+    "Latitude": "29.2371006",
+    "Longitude": "0.276033014"
+  },
+  "OGX": {
+    "Name": "Ain el Beida Airport",
+    "Latitude": "31.91720009",
+    "Longitude": "5.412779808"
+  },
+  "IAM": {
+    "Name": "In Am�nas Airport",
+    "Latitude": "28.0515",
+    "Longitude": "9.64291"
+  },
+  "COO": {
+    "Name": "Cadjehoun Airport",
+    "Latitude": "6.357230186",
+    "Longitude": "2.384350061"
+  },
+  "OUA": {
+    "Name": "Ouagadougou Airport",
+    "Latitude": "12.3532",
+    "Longitude": "-1.51242"
+  },
+  "BOY": {
+    "Name": "Bobo Dioulasso Airport",
+    "Latitude": "11.16009998",
+    "Longitude": "-4.33096981"
+  },
+  "ACC": {
+    "Name": "Kotoka International Airport",
+    "Latitude": "5.6051898",
+    "Longitude": "-0.166786"
+  },
+  "TML": {
+    "Name": "Tamale Airport",
+    "Latitude": "9.557189941",
+    "Longitude": "-0.863214016"
+  },
+  "NYI": {
+    "Name": "Sunyani Airport",
+    "Latitude": "7.361830235",
+    "Longitude": "-2.328759909"
+  },
+  "TKD": {
+    "Name": "Takoradi Airport",
+    "Latitude": "4.89605999",
+    "Longitude": "-1.774760008"
+  },
+  "ABJ": {
+    "Name": "Port Bouet Airport",
+    "Latitude": "5.261390209",
+    "Longitude": "-3.926290035"
+  },
+  "BYK": {
+    "Name": "Bouak� Airport",
+    "Latitude": "7.738800049",
+    "Longitude": "-5.07366991"
+  },
+  "DJO": {
+    "Name": "Daloa Airport",
+    "Latitude": "6.792809963",
+    "Longitude": "-6.473189831"
+  },
+  "HGO": {
+    "Name": "Korhogo Airport",
+    "Latitude": "9.387180328",
+    "Longitude": "-5.556660175"
+  },
+  "MJC": {
+    "Name": "Man Airport",
+    "Latitude": "7.272069931",
+    "Longitude": "-7.587359905"
+  },
+  "SPY": {
+    "Name": "San Pedro Airport",
+    "Latitude": "4.746719837",
+    "Longitude": "-6.660820007"
+  },
+  "ASK": {
+    "Name": "Yamoussoukro Airport",
+    "Latitude": "6.903170109",
+    "Longitude": "-5.365580082"
+  },
+  "ABV": {
+    "Name": "Nnamdi Azikiwe International Airport",
+    "Latitude": "9.006790161",
+    "Longitude": "7.263169765"
+  },
+  "AKR": {
+    "Name": "Akure Airport",
+    "Latitude": "7.246739864",
+    "Longitude": "5.301010132"
+  },
+  "BNI": {
+    "Name": "Benin Airport",
+    "Latitude": "6.316979885",
+    "Longitude": "5.599500179"
+  },
+  "CBQ": {
+    "Name": "Margaret Ekpo International Airport",
+    "Latitude": "4.976019859",
+    "Longitude": "8.347200394"
+  },
+  "ENU": {
+    "Name": "Akanu Ibiam International Airport",
+    "Latitude": "6.474269867",
+    "Longitude": "7.56196022"
+  },
+  "IBA": {
+    "Name": "Ibadan Airport",
+    "Latitude": "7.362460136",
+    "Longitude": "3.978329897"
+  },
+  "ILR": {
+    "Name": "Ilorin International Airport",
+    "Latitude": "8.440210342",
+    "Longitude": "4.493919849"
+  },
+  "JOS": {
+    "Name": "Yakubu Gowon Airport",
+    "Latitude": "9.639829636",
+    "Longitude": "8.869050026"
+  },
+  "KAD": {
+    "Name": "Kaduna Airport",
+    "Latitude": "10.6960001",
+    "Longitude": "7.320109844"
+  },
+  "KAN": {
+    "Name": "Mallam Aminu International Airport",
+    "Latitude": "12.0476",
+    "Longitude": "8.52462"
+  },
+  "MIU": {
+    "Name": "Maiduguri International Airport",
+    "Latitude": "11.85529995",
+    "Longitude": "13.08090019"
+  },
+  "MDI": {
+    "Name": "Makurdi Airport",
+    "Latitude": "7.70388",
+    "Longitude": "8.61394"
+  },
+  "LOS": {
+    "Name": "Murtala Muhammed International Airport",
+    "Latitude": "6.577370167",
+    "Longitude": "3.321160078"
+  },
+  "MXJ": {
+    "Name": "Minna Airport",
+    "Latitude": "9.652170181",
+    "Longitude": "6.462259769"
+  },
+  "PHC": {
+    "Name": "Port Harcourt International Airport",
+    "Latitude": "5.015490055",
+    "Longitude": "6.949590206"
+  },
+  "SKO": {
+    "Name": "Sadiq Abubakar III International Airport",
+    "Latitude": "12.91629982",
+    "Longitude": "5.207190037"
+  },
+  "YOL": {
+    "Name": "Yola Airport",
+    "Latitude": "9.25755024",
+    "Longitude": "12.43039989"
+  },
+  "ZAR": {
+    "Name": "Zaria Airport",
+    "Latitude": "11.1302",
+    "Longitude": "7.68581"
+  },
+  "MFQ": {
+    "Name": "Maradi Airport",
+    "Latitude": "13.50249958",
+    "Longitude": "7.126749992"
+  },
+  "NIM": {
+    "Name": "Diori Hamani International Airport",
+    "Latitude": "13.4815",
+    "Longitude": "2.18361"
+  },
+  "THZ": {
+    "Name": "Tahoua Airport",
+    "Latitude": "14.8757",
+    "Longitude": "5.265359879"
+  },
+  "AJY": {
+    "Name": "Mano Dayak International Airport",
+    "Latitude": "16.9659996",
+    "Longitude": "8.000109673"
+  },
+  "ZND": {
+    "Name": "Zinder Airport",
+    "Latitude": "13.77900028",
+    "Longitude": "8.98375988"
+  },
+  "MIR": {
+    "Name": "Monastir Habib Bourguiba International Airport",
+    "Latitude": "35.7580986",
+    "Longitude": "10.75469971"
+  },
+  "TUN": {
+    "Name": "Tunis Carthage International Airport",
+    "Latitude": "36.85100174",
+    "Longitude": "10.22719955"
+  },
+  "GAF": {
+    "Name": "Gafsa Ksar International Airport",
+    "Latitude": "34.42200089",
+    "Longitude": "8.822500229"
+  },
+  "GAE": {
+    "Name": "Gab�s Matmata International Airport",
+    "Latitude": "33.87689972",
+    "Longitude": "10.10330009"
+  },
+  "DJE": {
+    "Name": "Djerba Zarzis International Airport",
+    "Latitude": "33.875",
+    "Longitude": "10.7755003"
+  },
+  "EBM": {
+    "Name": "El Borma Airport",
+    "Latitude": "31.70429993",
+    "Longitude": "9.254619598"
+  },
+  "SFA": {
+    "Name": "Sfax Thyna International Airport",
+    "Latitude": "34.7179985",
+    "Longitude": "10.69099998"
+  },
+  "TOE": {
+    "Name": "Tozeur Nefta International Airport",
+    "Latitude": "33.93970108",
+    "Longitude": "8.110560417"
+  },
+  "LRL": {
+    "Name": "Niamtougou International Airport",
+    "Latitude": "9.76733017",
+    "Longitude": "1.091249943"
+  },
+  "LFW": {
+    "Name": "Lom�-Tokoin Airport",
+    "Latitude": "6.165609837",
+    "Longitude": "1.254510045"
+  },
+  "ANR": {
+    "Name": "Antwerp International Airport (Deurne)",
+    "Latitude": "51.18939972",
+    "Longitude": "4.460279942"
+  },
+  "BRU": {
+    "Name": "Brussels Airport",
+    "Latitude": "50.90140152",
+    "Longitude": "4.48443985"
+  },
+  "CRL": {
+    "Name": "Brussels South Charleroi Airport",
+    "Latitude": "50.459202",
+    "Longitude": "4.45382"
+  },
+  "KJK": {
+    "Name": "Wevelgem Airport",
+    "Latitude": "50.81719971",
+    "Longitude": "3.20472002"
+  },
+  "LGG": {
+    "Name": "Li�ge Airport",
+    "Latitude": "50.63740158",
+    "Longitude": "5.443220139"
+  },
+  "OST": {
+    "Name": "Ostend-Bruges International Airport",
+    "Latitude": "51.19889832",
+    "Longitude": "2.862220049"
+  },
+  "OBL": {
+    "Name": "Zoersel (Oostmalle) Airfield",
+    "Latitude": "51.264702",
+    "Longitude": "4.75333"
+  },
+  "AOC": {
+    "Name": "Altenburg-Nobitz Airport",
+    "Latitude": "50.981945",
+    "Longitude": "12.506389"
+  },
+  "IES": {
+    "Name": "Riesa-G�hlis Airport",
+    "Latitude": "51.29360962",
+    "Longitude": "13.35611057"
+  },
+  "REB": {
+    "Name": "Rechlin-L�rz Airport",
+    "Latitude": "53.30638886",
+    "Longitude": "12.75222206"
+  },
+  "QXH": {
+    "Name": "Sch�nhagen Airport",
+    "Latitude": "52.203609",
+    "Longitude": "13.156389"
+  },
+  "BBH": {
+    "Name": "Barth Airport",
+    "Latitude": "54.338253",
+    "Longitude": "12.710515"
+  },
+  "ZMG": {
+    "Name": "Magdeburg \"City\" Airport",
+    "Latitude": "52.073612",
+    "Longitude": "11.626389"
+  },
+  "CBU": {
+    "Name": "Cottbus-Drewitz Airport",
+    "Latitude": "51.889442",
+    "Longitude": "14.531944"
+  },
+  "SXF": {
+    "Name": "Berlin-Sch�nefeld Airport",
+    "Latitude": "52.380001",
+    "Longitude": "13.5225"
+  },
+  "DRS": {
+    "Name": "Dresden Airport",
+    "Latitude": "51.13280106",
+    "Longitude": "13.76720047"
+  },
+  "ERF": {
+    "Name": "Erfurt Airport",
+    "Latitude": "50.97980118",
+    "Longitude": "10.95810032"
+  },
+  "FRA": {
+    "Name": "Frankfurt am Main Airport",
+    "Latitude": "50.033333",
+    "Longitude": "8.570556"
+  },
+  "FMO": {
+    "Name": "M�nster Osnabr�ck Airport",
+    "Latitude": "52.13460159",
+    "Longitude": "7.684830189"
+  },
+  "HAM": {
+    "Name": "Hamburg Airport",
+    "Latitude": "53.63040161",
+    "Longitude": "9.988229752"
+  },
+  "THF": {
+    "Name": "Berlin-Tempelhof International Airport",
+    "Latitude": "52.47299957",
+    "Longitude": "13.40390015"
+  },
+  "CGN": {
+    "Name": "Cologne Bonn Airport",
+    "Latitude": "50.86589813",
+    "Longitude": "7.142739773"
+  },
+  "DUS": {
+    "Name": "D�sseldorf Airport",
+    "Latitude": "51.289501",
+    "Longitude": "6.76678"
+  },
+  "MUC": {
+    "Name": "Munich Airport",
+    "Latitude": "48.353802",
+    "Longitude": "11.7861"
+  },
+  "NUE": {
+    "Name": "Nuremberg Airport",
+    "Latitude": "49.498699",
+    "Longitude": "11.078056"
+  },
+  "LEJ": {
+    "Name": "Leipzig/Halle Airport",
+    "Latitude": "51.423889",
+    "Longitude": "12.236389"
+  },
+  "SCN": {
+    "Name": "Saarbr�cken Airport",
+    "Latitude": "49.21459961",
+    "Longitude": "7.109509945"
+  },
+  "STR": {
+    "Name": "Stuttgart Airport",
+    "Latitude": "48.68989944",
+    "Longitude": "9.221960068"
+  },
+  "TXL": {
+    "Name": "Berlin-Tegel Airport",
+    "Latitude": "52.5597",
+    "Longitude": "13.2877"
+  },
+  "HAJ": {
+    "Name": "Hannover Airport",
+    "Latitude": "52.46110153",
+    "Longitude": "9.685079575"
+  },
+  "BRE": {
+    "Name": "Bremen Airport",
+    "Latitude": "53.04750061",
+    "Longitude": "8.786669731"
+  },
+  "QEF": {
+    "Name": "Frankfurt-Egelsbach Airport",
+    "Latitude": "49.959999",
+    "Longitude": "8.645833"
+  },
+  "HHN": {
+    "Name": "Frankfurt-Hahn Airport",
+    "Latitude": "49.9487",
+    "Longitude": "7.26389"
+  },
+  "MHG": {
+    "Name": "Mannheim-City Airport",
+    "Latitude": "49.473057",
+    "Longitude": "8.514167"
+  },
+  "EIB": {
+    "Name": "Eisenach-Kindel Airport",
+    "Latitude": "50.991604",
+    "Longitude": "10.47973"
+  },
+  "SGE": {
+    "Name": "Siegerland Airport",
+    "Latitude": "50.70769882",
+    "Longitude": "8.082969666"
+  },
+  "XFW": {
+    "Name": "Hamburg-Finkenwerder Airport",
+    "Latitude": "53.53527832",
+    "Longitude": "9.83555603"
+  },
+  "KEL": {
+    "Name": "Kiel-Holtenau Airport",
+    "Latitude": "54.37944412",
+    "Longitude": "10.14527798"
+  },
+  "LBC": {
+    "Name": "L�beck Blankensee Airport",
+    "Latitude": "53.80540085",
+    "Longitude": "10.71920013"
+  },
+  "ESS": {
+    "Name": "Essen Mulheim Airport",
+    "Latitude": "51.40230179",
+    "Longitude": "6.937329769"
+  },
+  "BFE": {
+    "Name": "Bielefeld Airport",
+    "Latitude": "51.964722",
+    "Longitude": "8.544444"
+  },
+  "MGL": {
+    "Name": "M�nchengladbach Airport",
+    "Latitude": "51.230278",
+    "Longitude": "6.504444"
+  },
+  "PAD": {
+    "Name": "Paderborn Lippstadt Airport",
+    "Latitude": "51.61410141",
+    "Longitude": "8.616319656"
+  },
+  "DTM": {
+    "Name": "Dortmund Airport",
+    "Latitude": "51.5182991",
+    "Longitude": "7.612239838"
+  },
+  "AGB": {
+    "Name": "Augsburg Airport",
+    "Latitude": "48.425278",
+    "Longitude": "10.931667"
+  },
+  "OBF": {
+    "Name": "Oberpfaffenhofen Airport",
+    "Latitude": "48.081402",
+    "Longitude": "11.2831"
+  },
+  "RBM": {
+    "Name": "Straubing Airport",
+    "Latitude": "48.90083313",
+    "Longitude": "12.51666737"
+  },
+  "FDH": {
+    "Name": "Friedrichshafen Airport",
+    "Latitude": "47.67129898",
+    "Longitude": "9.511489868"
+  },
+  "SZW": {
+    "Name": "Schwerin Parchim Airport",
+    "Latitude": "53.426998",
+    "Longitude": "11.7834"
+  },
+  "BYU": {
+    "Name": "Bayreuth Airport",
+    "Latitude": "49.985001",
+    "Longitude": "11.64"
+  },
+  "URD": {
+    "Name": "Burg Feuerstein Airport",
+    "Latitude": "49.79416656",
+    "Longitude": "11.13361073"
+  },
+  "HOQ": {
+    "Name": "Hof-Plauen Airport",
+    "Latitude": "50.28861237",
+    "Longitude": "11.85638905"
+  },
+  "ZQW": {
+    "Name": "Zweibr�cken Airport",
+    "Latitude": "49.2094",
+    "Longitude": "7.40056"
+  },
+  "ZQL": {
+    "Name": "Donaueschingen-Villingen Airport",
+    "Latitude": "47.97333145",
+    "Longitude": "8.522221565"
+  },
+  "BWE": {
+    "Name": "Braunschweig-Wolfsburg Airport",
+    "Latitude": "52.319199",
+    "Longitude": "10.5561"
+  },
+  "KSF": {
+    "Name": "Kassel-Calden Airport",
+    "Latitude": "51.417273",
+    "Longitude": "9.384967"
+  },
+  "BRV": {
+    "Name": "Bremerhaven Airport",
+    "Latitude": "53.506943",
+    "Longitude": "8.572778"
+  },
+  "EME": {
+    "Name": "Emden Airport",
+    "Latitude": "53.391109",
+    "Longitude": "7.2275"
+  },
+  "WVN": {
+    "Name": "Wilhelmshaven-Mariensiel Airport",
+    "Latitude": "53.50222015",
+    "Longitude": "8.052222252"
+  },
+  "BMK": {
+    "Name": "Borkum Airport",
+    "Latitude": "53.59639",
+    "Longitude": "6.709167"
+  },
+  "NRD": {
+    "Name": "Norderney Airport",
+    "Latitude": "53.70694351",
+    "Longitude": "7.230000019"
+  },
+  "FLF": {
+    "Name": "Flensburg-Sch�ferhaus Airport",
+    "Latitude": "54.7733345",
+    "Longitude": "9.378889084"
+  },
+  "GWT": {
+    "Name": "Westerland Sylt Airport",
+    "Latitude": "54.91320038",
+    "Longitude": "8.340470314"
+  },
+  "KDL": {
+    "Name": "K�rdla Airport",
+    "Latitude": "58.99079895",
+    "Longitude": "22.83069992"
+  },
+  "URE": {
+    "Name": "Kuressaare Airport",
+    "Latitude": "58.22990036",
+    "Longitude": "22.5095005"
+  },
+  "EPU": {
+    "Name": "P�rnu Airport",
+    "Latitude": "58.41899872",
+    "Longitude": "24.4727993"
+  },
+  "TLL": {
+    "Name": "Lennart Meri Tallinn Airport",
+    "Latitude": "59.41329956",
+    "Longitude": "24.83279991"
+  },
+  "TAY": {
+    "Name": "Tartu Airport",
+    "Latitude": "58.30749893",
+    "Longitude": "26.69039917"
+  },
+  "ENF": {
+    "Name": "Enontekio Airport",
+    "Latitude": "68.36260223",
+    "Longitude": "23.42429924"
+  },
+  "KEV": {
+    "Name": "Halli Airport",
+    "Latitude": "61.856039",
+    "Longitude": "24.786686"
+  },
+  "HEM": {
+    "Name": "Helsinki Malmi Airport",
+    "Latitude": "60.25460052",
+    "Longitude": "25.0428009"
+  },
+  "HEL": {
+    "Name": "Helsinki Vantaa Airport",
+    "Latitude": "60.31719971",
+    "Longitude": "24.9633007"
+  },
+  "HYV": {
+    "Name": "Hyvink�� Airfield",
+    "Latitude": "60.65439987",
+    "Longitude": "24.8810997"
+  },
+  "KTQ": {
+    "Name": "Kitee Airport",
+    "Latitude": "62.1661",
+    "Longitude": "30.073601"
+  },
+  "IVL": {
+    "Name": "Ivalo Airport",
+    "Latitude": "68.6072998",
+    "Longitude": "27.40530014"
+  },
+  "JOE": {
+    "Name": "Joensuu Airport",
+    "Latitude": "62.66289902",
+    "Longitude": "29.60750008"
+  },
+  "JYV": {
+    "Name": "Jyvaskyla Airport",
+    "Latitude": "62.3995018",
+    "Longitude": "25.67830086"
+  },
+  "KAU": {
+    "Name": "Kauhava Airport",
+    "Latitude": "63.127102",
+    "Longitude": "23.051399"
+  },
+  "KEM": {
+    "Name": "Kemi-Tornio Airport",
+    "Latitude": "65.77870178",
+    "Longitude": "24.58209991"
+  },
+  "KAJ": {
+    "Name": "Kajaani Airport",
+    "Latitude": "64.28549957",
+    "Longitude": "27.69239998"
+  },
+  "KHJ": {
+    "Name": "Kauhajoki Airport",
+    "Latitude": "62.46250153",
+    "Longitude": "22.39310074"
+  },
+  "KOK": {
+    "Name": "Kokkola-Pietarsaari Airport",
+    "Latitude": "63.72119904",
+    "Longitude": "23.14310074"
+  },
+  "KAO": {
+    "Name": "Kuusamo Airport",
+    "Latitude": "65.98760223",
+    "Longitude": "29.23940086"
+  },
+  "KTT": {
+    "Name": "Kittil� Airport",
+    "Latitude": "67.7009964",
+    "Longitude": "24.84679985"
+  },
+  "KUO": {
+    "Name": "Kuopio Airport",
+    "Latitude": "63.00709915",
+    "Longitude": "27.79780006"
+  },
+  "QLF": {
+    "Name": "Lahti Vesivehmaa Airport",
+    "Latitude": "61.144199",
+    "Longitude": "25.693501"
+  },
+  "LPP": {
+    "Name": "Lappeenranta Airport",
+    "Latitude": "61.044601",
+    "Longitude": "28.144743"
+  },
+  "MHQ": {
+    "Name": "Mariehamn Airport",
+    "Latitude": "60.12220001",
+    "Longitude": "19.89819908"
+  },
+  "MIK": {
+    "Name": "Mikkeli Airport",
+    "Latitude": "61.6866",
+    "Longitude": "27.201799"
+  },
+  "OUL": {
+    "Name": "Oulu Airport",
+    "Latitude": "64.93009949",
+    "Longitude": "25.35460091"
+  },
+  "POR": {
+    "Name": "Pori Airport",
+    "Latitude": "61.46170044",
+    "Longitude": "21.79999924"
+  },
+  "RVN": {
+    "Name": "Rovaniemi Airport",
+    "Latitude": "66.56479645",
+    "Longitude": "25.83040047"
+  },
+  "SVL": {
+    "Name": "Savonlinna Airport",
+    "Latitude": "61.94309998",
+    "Longitude": "28.94510078"
+  },
+  "SOT": {
+    "Name": "Sodankyla Airport",
+    "Latitude": "67.39499664",
+    "Longitude": "26.61910057"
+  },
+  "TMP": {
+    "Name": "Tampere-Pirkkala Airport",
+    "Latitude": "61.41410065",
+    "Longitude": "23.60440063"
+  },
+  "TKU": {
+    "Name": "Turku Airport",
+    "Latitude": "60.51409912",
+    "Longitude": "22.26280022"
+  },
+  "UTI": {
+    "Name": "Utti Air Base",
+    "Latitude": "60.89640045",
+    "Longitude": "26.93840027"
+  },
+  "VAA": {
+    "Name": "Vaasa Airport",
+    "Latitude": "63.05070114",
+    "Longitude": "21.7621994"
+  },
+  "VRK": {
+    "Name": "Varkaus Airport",
+    "Latitude": "62.17110062",
+    "Longitude": "27.86860085"
+  },
+  "YLI": {
+    "Name": "Ylivieska Airfield",
+    "Latitude": "64.0547222",
+    "Longitude": "24.7252778"
+  },
+  "BFS": {
+    "Name": "Belfast International Airport",
+    "Latitude": "54.65750122",
+    "Longitude": "-6.215829849"
+  },
+  "ENK": {
+    "Name": "St Angelo Airport",
+    "Latitude": "54.39889908",
+    "Longitude": "-7.651669979"
+  },
+  "BHD": {
+    "Name": "George Best Belfast City Airport",
+    "Latitude": "54.61809921",
+    "Longitude": "-5.872499943"
+  },
+  "LDY": {
+    "Name": "City of Derry Airport",
+    "Latitude": "55.0428009",
+    "Longitude": "-7.161109924"
+  },
+  "BHX": {
+    "Name": "Birmingham International Airport",
+    "Latitude": "52.45389938",
+    "Longitude": "-1.748029947"
+  },
+  "CVT": {
+    "Name": "Coventry Airport",
+    "Latitude": "52.36970139",
+    "Longitude": "-1.479719996"
+  },
+  "GLO": {
+    "Name": "Gloucestershire Airport",
+    "Latitude": "51.89419937",
+    "Longitude": "-2.167220116"
+  },
+  "GBA": {
+    "Name": "Cotswold Airport",
+    "Latitude": "51.668095",
+    "Longitude": "-2.05694"
+  },
+  "MAN": {
+    "Name": "Manchester Airport",
+    "Latitude": "53.35369873",
+    "Longitude": "-2.274950027"
+  },
+  "NQY": {
+    "Name": "Newquay Cornwall Airport",
+    "Latitude": "50.44060135",
+    "Longitude": "-4.995409966"
+  },
+  "LYE": {
+    "Name": "RAF Lyneham",
+    "Latitude": "51.5051",
+    "Longitude": "-1.99343"
+  },
+  "YEO": {
+    "Name": "RNAS Yeovilton",
+    "Latitude": "51.00939941",
+    "Longitude": "-2.638819933"
+  },
+  "HAW": {
+    "Name": "Haverfordwest Airport",
+    "Latitude": "51.83309937",
+    "Longitude": "-4.961110115"
+  },
+  "CWL": {
+    "Name": "Cardiff International Airport",
+    "Latitude": "51.39670181",
+    "Longitude": "-3.343329906"
+  },
+  "SWS": {
+    "Name": "Swansea Airport",
+    "Latitude": "51.6053009",
+    "Longitude": "-4.067830086"
+  },
+  "BRS": {
+    "Name": "Bristol Airport",
+    "Latitude": "51.382702",
+    "Longitude": "-2.71909"
+  },
+  "LPL": {
+    "Name": "Liverpool John Lennon Airport",
+    "Latitude": "53.33359909",
+    "Longitude": "-2.849720001"
+  },
+  "LTN": {
+    "Name": "London Luton Airport",
+    "Latitude": "51.87469864",
+    "Longitude": "-0.368333012"
+  },
+  "PLH": {
+    "Name": "Plymouth City Airport",
+    "Latitude": "50.422798",
+    "Longitude": "-4.10583"
+  },
+  "BOH": {
+    "Name": "Bournemouth Airport",
+    "Latitude": "50.77999878",
+    "Longitude": "-1.842499971"
+  },
+  "SOU": {
+    "Name": "Southampton Airport",
+    "Latitude": "50.95029831",
+    "Longitude": "-1.35679996"
+  },
+  "QLA": {
+    "Name": "Lasham Airport",
+    "Latitude": "51.18719864",
+    "Longitude": "-1.033499956"
+  },
+  "ACI": {
+    "Name": "Alderney Airport",
+    "Latitude": "49.706104",
+    "Longitude": "-2.21472"
+  },
+  "GCI": {
+    "Name": "Guernsey Airport",
+    "Latitude": "49.43500137",
+    "Longitude": "-2.601969957"
+  },
+  "JER": {
+    "Name": "Jersey Airport",
+    "Latitude": "49.207901",
+    "Longitude": "-2.195509911"
+  },
+  "ESH": {
+    "Name": "Shoreham Airport",
+    "Latitude": "50.835602",
+    "Longitude": "-0.297222"
+  },
+  "BQH": {
+    "Name": "London Biggin Hill Airport",
+    "Latitude": "51.3307991",
+    "Longitude": "0.032499999"
+  },
+  "LGW": {
+    "Name": "London Gatwick Airport",
+    "Latitude": "51.148102",
+    "Longitude": "-0.190278"
+  },
+  "LCY": {
+    "Name": "London City Airport",
+    "Latitude": "51.505299",
+    "Longitude": "0.055278"
+  },
+  "FAB": {
+    "Name": "Farnborough Airport",
+    "Latitude": "51.2757988",
+    "Longitude": "-0.776332974"
+  },
+  "BBS": {
+    "Name": "Blackbushe Airport",
+    "Latitude": "51.32389832",
+    "Longitude": "-0.847500026"
+  },
+  "LHR": {
+    "Name": "London Heathrow Airport",
+    "Latitude": "51.4706",
+    "Longitude": "-0.461941"
+  },
+  "SEN": {
+    "Name": "Southend Airport",
+    "Latitude": "51.57139969",
+    "Longitude": "0.695555985"
+  },
+  "LYX": {
+    "Name": "Lydd Airport",
+    "Latitude": "50.95610046",
+    "Longitude": "0.939167023"
+  },
+  "MSE": {
+    "Name": "Kent International Airport",
+    "Latitude": "51.342201",
+    "Longitude": "1.34611"
+  },
+  "CAX": {
+    "Name": "Carlisle Airport",
+    "Latitude": "54.9375",
+    "Longitude": "-2.809170008"
+  },
+  "BLK": {
+    "Name": "Blackpool International Airport",
+    "Latitude": "53.77170181",
+    "Longitude": "-3.028609991"
+  },
+  "HUY": {
+    "Name": "Humberside Airport",
+    "Latitude": "53.57440186",
+    "Longitude": "-0.350832999"
+  },
+  "BWF": {
+    "Name": "Barrow Walney Island Airport",
+    "Latitude": "54.1286111",
+    "Longitude": "-3.2675"
+  },
+  "LBA": {
+    "Name": "Leeds Bradford Airport",
+    "Latitude": "53.86589813",
+    "Longitude": "-1.660570025"
+  },
+  "WRT": {
+    "Name": "Warton Airport",
+    "Latitude": "53.745098",
+    "Longitude": "-2.88306"
+  },
+  "CEG": {
+    "Name": "Hawarden Airport",
+    "Latitude": "53.17810059",
+    "Longitude": "-2.977780104"
+  },
+  "IOM": {
+    "Name": "Isle of Man Airport",
+    "Latitude": "54.08330154",
+    "Longitude": "-4.623889923"
+  },
+  "NCL": {
+    "Name": "Newcastle Airport",
+    "Latitude": "55.03749847",
+    "Longitude": "-1.691669941"
+  },
+  "MME": {
+    "Name": "Durham Tees Valley Airport",
+    "Latitude": "54.50920105",
+    "Longitude": "-1.429409981"
+  },
+  "EMA": {
+    "Name": "East Midlands Airport",
+    "Latitude": "52.83110046",
+    "Longitude": "-1.328060031"
+  },
+  "KOI": {
+    "Name": "Kirkwall Airport",
+    "Latitude": "58.95780182",
+    "Longitude": "-2.904999971"
+  },
+  "LSI": {
+    "Name": "Sumburgh Airport",
+    "Latitude": "59.87889862",
+    "Longitude": "-1.295560002"
+  },
+  "WIC": {
+    "Name": "Wick Airport",
+    "Latitude": "58.45890045",
+    "Longitude": "-3.093060017"
+  },
+  "ABZ": {
+    "Name": "Aberdeen Dyce Airport",
+    "Latitude": "57.20190048",
+    "Longitude": "-2.197779894"
+  },
+  "INV": {
+    "Name": "Inverness Airport",
+    "Latitude": "57.54249954",
+    "Longitude": "-4.047500134"
+  },
+  "GLA": {
+    "Name": "Glasgow International Airport",
+    "Latitude": "55.87189865",
+    "Longitude": "-4.433060169"
+  },
+  "EDI": {
+    "Name": "Edinburgh Airport",
+    "Latitude": "55.95000076",
+    "Longitude": "-3.372499943"
+  },
+  "ILY": {
+    "Name": "Islay Airport",
+    "Latitude": "55.68190002",
+    "Longitude": "-6.256669998"
+  },
+  "PIK": {
+    "Name": "Glasgow Prestwick Airport",
+    "Latitude": "55.50939941",
+    "Longitude": "-4.586669922"
+  },
+  "BEB": {
+    "Name": "Benbecula Airport",
+    "Latitude": "57.48109818",
+    "Longitude": "-7.362780094"
+  },
+  "SCS": {
+    "Name": "Scatsta Airport",
+    "Latitude": "60.43280029",
+    "Longitude": "-1.296110034"
+  },
+  "DND": {
+    "Name": "Dundee Airport",
+    "Latitude": "56.45249939",
+    "Longitude": "-3.02583003"
+  },
+  "SYY": {
+    "Name": "Stornoway Airport",
+    "Latitude": "58.21559906",
+    "Longitude": "-6.331110001"
+  },
+  "TRE": {
+    "Name": "Tiree Airport",
+    "Latitude": "56.49919891",
+    "Longitude": "-6.869170189"
+  },
+  "ADX": {
+    "Name": "RAF Leuchars",
+    "Latitude": "56.3728981",
+    "Longitude": "-2.868439913"
+  },
+  "LMO": {
+    "Name": "RAF Lossiemouth",
+    "Latitude": "57.7052002",
+    "Longitude": "-3.339169979"
+  },
+  "CBG": {
+    "Name": "Cambridge Airport",
+    "Latitude": "52.205002",
+    "Longitude": "0.175"
+  },
+  "NWI": {
+    "Name": "Norwich International Airport",
+    "Latitude": "52.67580032",
+    "Longitude": "1.282780051"
+  },
+  "STN": {
+    "Name": "London Stansted Airport",
+    "Latitude": "51.88499832",
+    "Longitude": "0.234999999"
+  },
+  "EXT": {
+    "Name": "Exeter International Airport",
+    "Latitude": "50.7344017",
+    "Longitude": "-3.413889885"
+  },
+  "FZO": {
+    "Name": "Bristol Filton Airport",
+    "Latitude": "51.51940155",
+    "Longitude": "-2.590830088"
+  },
+  "OXF": {
+    "Name": "Oxford (Kidlington) Airport",
+    "Latitude": "51.8368988",
+    "Longitude": "-1.320000052"
+  },
+  "BEX": {
+    "Name": "RAF Benson",
+    "Latitude": "51.61640167",
+    "Longitude": "-1.095829964"
+  },
+  "LKZ": {
+    "Name": "RAF Lakenheath",
+    "Latitude": "52.40930176",
+    "Longitude": "0.56099999"
+  },
+  "MHZ": {
+    "Name": "RAF Mildenhall",
+    "Latitude": "52.36190033",
+    "Longitude": "0.486405998"
+  },
+  "QUY": {
+    "Name": "RAF Wyton",
+    "Latitude": "52.35720062",
+    "Longitude": "-0.107832998"
+  },
+  "FFD": {
+    "Name": "RAF Fairford",
+    "Latitude": "51.68220139",
+    "Longitude": "-1.790030003"
+  },
+  "BZZ": {
+    "Name": "RAF Brize Norton",
+    "Latitude": "51.75",
+    "Longitude": "-1.58362"
+  },
+  "ODH": {
+    "Name": "RAF Odiham",
+    "Latitude": "51.23410034",
+    "Longitude": "-0.942825019"
+  },
+  "NHT": {
+    "Name": "RAF Northolt",
+    "Latitude": "51.5530014",
+    "Longitude": "-0.418166995"
+  },
+  "QCY": {
+    "Name": "RAF Coningsby",
+    "Latitude": "53.0929985",
+    "Longitude": "-0.166014001"
+  },
+  "BEQ": {
+    "Name": "RAF Honington",
+    "Latitude": "52.34260178",
+    "Longitude": "0.772939026"
+  },
+  "SQZ": {
+    "Name": "RAF Scampton",
+    "Latitude": "53.30780029",
+    "Longitude": "-0.550832987"
+  },
+  "HRT": {
+    "Name": "RAF Linton-On-Ouse",
+    "Latitude": "54.0489006",
+    "Longitude": "-1.252750039"
+  },
+  "WTN": {
+    "Name": "RAF Waddington",
+    "Latitude": "53.16619873",
+    "Longitude": "-0.523810983"
+  },
+  "KNF": {
+    "Name": "RAF Marham",
+    "Latitude": "52.648395",
+    "Longitude": "0.550692"
+  },
+  "MPN": {
+    "Name": "Mount Pleasant Airport",
+    "Latitude": "-51.82279968",
+    "Longitude": "-58.44720078"
+  },
+  "AMS": {
+    "Name": "Amsterdam Airport Schiphol",
+    "Latitude": "52.308601",
+    "Longitude": "4.76389"
+  },
+  "MST": {
+    "Name": "Maastricht Aachen Airport",
+    "Latitude": "50.911701",
+    "Longitude": "5.77014"
+  },
+  "EIN": {
+    "Name": "Eindhoven Airport",
+    "Latitude": "51.45009995",
+    "Longitude": "5.374529839"
+  },
+  "GRQ": {
+    "Name": "Eelde Airport",
+    "Latitude": "53.11970139",
+    "Longitude": "6.579440117"
+  },
+  "GLZ": {
+    "Name": "Gilze Rijen Air Base",
+    "Latitude": "51.56740189",
+    "Longitude": "4.931829929"
+  },
+  "DHR": {
+    "Name": "De Kooy Airport",
+    "Latitude": "52.92340088",
+    "Longitude": "4.780620098"
+  },
+  "LEY": {
+    "Name": "Lelystad Airport",
+    "Latitude": "52.4603",
+    "Longitude": "5.52722"
+  },
+  "LWR": {
+    "Name": "Leeuwarden Air Base",
+    "Latitude": "53.22859955",
+    "Longitude": "5.760560036"
+  },
+  "RTM": {
+    "Name": "Rotterdam The Hague Airport",
+    "Latitude": "51.956902",
+    "Longitude": "4.43722"
+  },
+  "UTC": {
+    "Name": "Soesterberg Air Base",
+    "Latitude": "52.12730026",
+    "Longitude": "5.276189804"
+  },
+  "ENS": {
+    "Name": "Twente Airport",
+    "Latitude": "52.275833",
+    "Longitude": "6.889167"
+  },
+  "LID": {
+    "Name": "Valkenburg Naval Air Base",
+    "Latitude": "52.16609955",
+    "Longitude": "4.41794014"
+  },
+  "WOE": {
+    "Name": "Woensdrecht Air Base",
+    "Latitude": "51.4491",
+    "Longitude": "4.34203"
+  },
+  "ORK": {
+    "Name": "Cork Airport",
+    "Latitude": "51.84130096",
+    "Longitude": "-8.491109848"
+  },
+  "GWY": {
+    "Name": "Galway Airport",
+    "Latitude": "53.30020142",
+    "Longitude": "-8.941590309"
+  },
+  "DUB": {
+    "Name": "Dublin Airport",
+    "Latitude": "53.421299",
+    "Longitude": "-6.27007"
+  },
+  "NOC": {
+    "Name": "Ireland West Knock Airport",
+    "Latitude": "53.91030121",
+    "Longitude": "-8.818490028"
+  },
+  "KIR": {
+    "Name": "Kerry Airport",
+    "Latitude": "52.18090057",
+    "Longitude": "-9.523779869"
+  },
+  "SNN": {
+    "Name": "Shannon Airport",
+    "Latitude": "52.702",
+    "Longitude": "-8.92482"
+  },
+  "SXL": {
+    "Name": "Sligo Airport",
+    "Latitude": "54.28020096",
+    "Longitude": "-8.599209785"
+  },
+  "WAT": {
+    "Name": "Waterford Airport",
+    "Latitude": "52.18719864",
+    "Longitude": "-7.086959839"
+  },
+  "AAR": {
+    "Name": "Aarhus Airport",
+    "Latitude": "56.29999924",
+    "Longitude": "10.61900043"
+  },
+  "BLL": {
+    "Name": "Billund Airport",
+    "Latitude": "55.74029922",
+    "Longitude": "9.151780128"
+  },
+  "CPH": {
+    "Name": "Copenhagen Kastrup Airport",
+    "Latitude": "55.61790085",
+    "Longitude": "12.65600014"
+  },
+  "EBJ": {
+    "Name": "Esbjerg Airport",
+    "Latitude": "55.525902",
+    "Longitude": "8.5534"
+  },
+  "KRP": {
+    "Name": "Karup Airport",
+    "Latitude": "56.29750061",
+    "Longitude": "9.124629974"
+  },
+  "BYR": {
+    "Name": "L�s� Airport",
+    "Latitude": "57.27719879",
+    "Longitude": "11.00010014"
+  },
+  "MRW": {
+    "Name": "Lolland Falster Maribo Airport",
+    "Latitude": "54.699299",
+    "Longitude": "11.4401"
+  },
+  "ODE": {
+    "Name": "Odense Airport",
+    "Latitude": "55.47669983",
+    "Longitude": "10.33090019"
+  },
+  "RKE": {
+    "Name": "Copenhagen Roskilde Airport",
+    "Latitude": "55.58560181",
+    "Longitude": "12.13140011"
+  },
+  "RNN": {
+    "Name": "Bornholm Airport",
+    "Latitude": "55.06330109",
+    "Longitude": "14.75959969"
+  },
+  "SGD": {
+    "Name": "S�nderborg Airport",
+    "Latitude": "54.96440125",
+    "Longitude": "9.791729927"
+  },
+  "SKS": {
+    "Name": "Skrydstrup Air Base",
+    "Latitude": "55.221048",
+    "Longitude": "9.26702"
+  },
+  "SQW": {
+    "Name": "Skive Airport",
+    "Latitude": "56.55020142",
+    "Longitude": "9.172980309"
+  },
+  "TED": {
+    "Name": "Thisted Airport",
+    "Latitude": "57.06880188",
+    "Longitude": "8.705220222"
+  },
+  "FAE": {
+    "Name": "Vagar Airport",
+    "Latitude": "62.06359863",
+    "Longitude": "-7.277219772"
+  },
+  "STA": {
+    "Name": "Stauning Airport",
+    "Latitude": "55.99010086",
+    "Longitude": "8.353910446"
+  },
+  "AAL": {
+    "Name": "Aalborg Airport",
+    "Latitude": "57.09275891",
+    "Longitude": "9.849243164"
+  },
+  "LUX": {
+    "Name": "Luxembourg-Findel International Airport",
+    "Latitude": "49.6233333",
+    "Longitude": "6.2044444"
+  },
+  "AES": {
+    "Name": "�lesund Airport",
+    "Latitude": "62.5625",
+    "Longitude": "6.119699955"
+  },
+  "ANX": {
+    "Name": "And�ya Airport",
+    "Latitude": "69.29250336",
+    "Longitude": "16.14419937"
+  },
+  "ALF": {
+    "Name": "Alta Airport",
+    "Latitude": "69.97609711",
+    "Longitude": "23.37170029"
+  },
+  "BNN": {
+    "Name": "Br�nn�ysund Airport",
+    "Latitude": "65.46109772",
+    "Longitude": "12.21749973"
+  },
+  "BOO": {
+    "Name": "Bod� Airport",
+    "Latitude": "67.26920319",
+    "Longitude": "14.36530018"
+  },
+  "BGO": {
+    "Name": "Bergen Airport Flesland",
+    "Latitude": "60.29339981",
+    "Longitude": "5.218140125"
+  },
+  "BJF": {
+    "Name": "B�tsfjord Airport",
+    "Latitude": "70.60050201",
+    "Longitude": "29.69140053"
+  },
+  "KRS": {
+    "Name": "Kristiansand Airport",
+    "Latitude": "58.204201",
+    "Longitude": "8.08537"
+  },
+  "DLD": {
+    "Name": "Geilo Airport Dagali",
+    "Latitude": "60.41730118",
+    "Longitude": "8.518349648"
+  },
+  "BDU": {
+    "Name": "Bardufoss Airport",
+    "Latitude": "69.05580139",
+    "Longitude": "18.54039955"
+  },
+  "EVE": {
+    "Name": "Harstad/Narvik Airport, Evenes",
+    "Latitude": "68.49130249",
+    "Longitude": "16.67810059"
+  },
+  "VDB": {
+    "Name": "Leirin Airport",
+    "Latitude": "61.0155983",
+    "Longitude": "9.288060188"
+  },
+  "FRO": {
+    "Name": "Flor� Airport",
+    "Latitude": "61.58359909",
+    "Longitude": "5.024720192"
+  },
+  "OSL": {
+    "Name": "Oslo Lufthavn",
+    "Latitude": "60.121",
+    "Longitude": "11.0502"
+  },
+  "HAU": {
+    "Name": "Haugesund Airport",
+    "Latitude": "59.34529877",
+    "Longitude": "5.208360195"
+  },
+  "HAA": {
+    "Name": "Hasvik Airport",
+    "Latitude": "70.48670197",
+    "Longitude": "22.13969994"
+  },
+  "KSU": {
+    "Name": "Kristiansund Airport (Kvernberget)",
+    "Latitude": "63.11180115",
+    "Longitude": "7.824520111"
+  },
+  "KKN": {
+    "Name": "Kirkenes Airport (H�ybuktmoen)",
+    "Latitude": "69.72579956",
+    "Longitude": "29.8913002"
+  },
+  "FAN": {
+    "Name": "Lista Airport",
+    "Latitude": "58.09949875",
+    "Longitude": "6.626049995"
+  },
+  "MOL": {
+    "Name": "Molde Airport",
+    "Latitude": "62.74470139",
+    "Longitude": "7.262499809"
+  },
+  "MJF": {
+    "Name": "Mosj�en Airport (Kj�rstad)",
+    "Latitude": "65.78399658",
+    "Longitude": "13.21490002"
+  },
+  "LKL": {
+    "Name": "Banak Airport",
+    "Latitude": "70.06880188",
+    "Longitude": "24.9734993"
+  },
+  "NTB": {
+    "Name": "Notodden Airport",
+    "Latitude": "59.565701",
+    "Longitude": "9.21222"
+  },
+  "OLA": {
+    "Name": "�rland Airport",
+    "Latitude": "63.69889832",
+    "Longitude": "9.604000092"
+  },
+  "RRS": {
+    "Name": "R�ros Airport",
+    "Latitude": "62.57839966",
+    "Longitude": "11.34230042"
+  },
+  "RYG": {
+    "Name": "Moss Airport, Rygge",
+    "Latitude": "59.378817",
+    "Longitude": "10.785439"
+  },
+  "LYR": {
+    "Name": "Svalbard Airport, Longyear",
+    "Latitude": "78.24610138",
+    "Longitude": "15.46560001"
+  },
+  "SKE": {
+    "Name": "Skien Airport",
+    "Latitude": "59.18500137",
+    "Longitude": "9.566940308"
+  },
+  "SRP": {
+    "Name": "Stord Airport",
+    "Latitude": "59.79190063",
+    "Longitude": "5.340849876"
+  },
+  "SSJ": {
+    "Name": "Sandnessj�en Airport (Stokka)",
+    "Latitude": "65.95680237",
+    "Longitude": "12.46889973"
+  },
+  "TOS": {
+    "Name": "Troms� Airport,",
+    "Latitude": "69.6832962",
+    "Longitude": "18.91889954"
+  },
+  "TRF": {
+    "Name": "Sandefjord Airport, Torp",
+    "Latitude": "59.18669891",
+    "Longitude": "10.25860024"
+  },
+  "TRD": {
+    "Name": "Trondheim Airport V�rnes",
+    "Latitude": "63.4578018",
+    "Longitude": "10.9239998"
+  },
+  "SVG": {
+    "Name": "Stavanger Airport Sola",
+    "Latitude": "58.87670135",
+    "Longitude": "5.63778019"
+  },
+  "GDN": {
+    "Name": "Gdansk Lech Walesa Airport",
+    "Latitude": "54.37760162",
+    "Longitude": "18.46619987"
+  },
+  "KRK": {
+    "Name": "Krak�w John Paul II International Airport",
+    "Latitude": "50.077702",
+    "Longitude": "19.7848"
+  },
+  "KTW": {
+    "Name": "Katowice International Airport",
+    "Latitude": "50.4743",
+    "Longitude": "19.08"
+  },
+  "POZ": {
+    "Name": "Poznan-Lawica Airport",
+    "Latitude": "52.42100143",
+    "Longitude": "16.82629967"
+  },
+  "RZE": {
+    "Name": "Rzesz�w-Jasionka Airport",
+    "Latitude": "50.11000061",
+    "Longitude": "22.0189991"
+  },
+  "SZZ": {
+    "Name": "Szczecin-Goleni�w \"Solidarnosc\" Airport",
+    "Latitude": "53.58470154",
+    "Longitude": "14.90219975"
+  },
+  "OSP": {
+    "Name": "Redzikowo Air Base",
+    "Latitude": "54.47890091",
+    "Longitude": "17.10750008"
+  },
+  "WAW": {
+    "Name": "Warsaw Chopin Airport",
+    "Latitude": "52.16569901",
+    "Longitude": "20.96710014"
+  },
+  "WRO": {
+    "Name": "Copernicus Wroclaw Airport",
+    "Latitude": "51.10269928",
+    "Longitude": "16.88579941"
+  },
+  "IEG": {
+    "Name": "Zielona G�ra-Babimost Airport",
+    "Latitude": "52.13850021",
+    "Longitude": "15.7986002"
+  },
+  "RNB": {
+    "Name": "Ronneby Airport",
+    "Latitude": "56.26670074",
+    "Longitude": "15.26500034"
+  },
+  "GOT": {
+    "Name": "Gothenburg-Landvetter Airport",
+    "Latitude": "57.66279984",
+    "Longitude": "12.27980042"
+  },
+  "JKG": {
+    "Name": "J�nk�ping Airport",
+    "Latitude": "57.75759888",
+    "Longitude": "14.06869984"
+  },
+  "LDK": {
+    "Name": "Lidk�ping-Hovby Airport",
+    "Latitude": "58.4655",
+    "Longitude": "13.1744"
+  },
+  "GSE": {
+    "Name": "Gothenburg City Airport",
+    "Latitude": "57.7747",
+    "Longitude": "11.8704"
+  },
+  "KVB": {
+    "Name": "Sk�vde Airport",
+    "Latitude": "58.45640182",
+    "Longitude": "13.97270012"
+  },
+  "THN": {
+    "Name": "Trollh�ttan-V�nersborg Airport",
+    "Latitude": "58.31809998",
+    "Longitude": "12.34500027"
+  },
+  "KSK": {
+    "Name": "Karlskoga Airport",
+    "Latitude": "59.34590149",
+    "Longitude": "14.49590015"
+  },
+  "MXX": {
+    "Name": "Mora Airport",
+    "Latitude": "60.957901",
+    "Longitude": "14.5114"
+  },
+  "NYO": {
+    "Name": "Stockholm Skavsta Airport",
+    "Latitude": "58.78860092",
+    "Longitude": "16.91220093"
+  },
+  "KID": {
+    "Name": "Kristianstad Airport",
+    "Latitude": "55.92169952",
+    "Longitude": "14.08549976"
+  },
+  "OSK": {
+    "Name": "Oskarshamn Airport",
+    "Latitude": "57.350498",
+    "Longitude": "16.497999"
+  },
+  "KLR": {
+    "Name": "Kalmar Airport",
+    "Latitude": "56.6855011",
+    "Longitude": "16.28759956"
+  },
+  "MMX": {
+    "Name": "Malm� Sturup Airport",
+    "Latitude": "55.53630536",
+    "Longitude": "13.37619781"
+  },
+  "HAD": {
+    "Name": "Halmstad Airport",
+    "Latitude": "56.69110107",
+    "Longitude": "12.82019997"
+  },
+  "VXO": {
+    "Name": "V�xj� Kronoberg Airport",
+    "Latitude": "56.92910004",
+    "Longitude": "14.72799969"
+  },
+  "EVG": {
+    "Name": "Sveg Airport",
+    "Latitude": "62.04779816",
+    "Longitude": "14.4229002"
+  },
+  "GEV": {
+    "Name": "G�llivare Airport",
+    "Latitude": "67.13240051",
+    "Longitude": "20.81459999"
+  },
+  "HUV": {
+    "Name": "Hudiksvall Airport",
+    "Latitude": "61.76810074",
+    "Longitude": "17.08069992"
+  },
+  "KRF": {
+    "Name": "Kramfors Sollefte� Airport",
+    "Latitude": "63.04859924",
+    "Longitude": "17.76889992"
+  },
+  "LYC": {
+    "Name": "Lycksele Airport",
+    "Latitude": "64.5483017",
+    "Longitude": "18.71619987"
+  },
+  "SDL": {
+    "Name": "Sundsvall-H�rn�sand Airport",
+    "Latitude": "62.52809906",
+    "Longitude": "17.44389915"
+  },
+  "OER": {
+    "Name": "�rnsk�ldsvik Airport",
+    "Latitude": "63.40829849",
+    "Longitude": "18.98999977"
+  },
+  "KRN": {
+    "Name": "Kiruna Airport",
+    "Latitude": "67.8219986",
+    "Longitude": "20.33679962"
+  },
+  "SFT": {
+    "Name": "Skellefte� Airport",
+    "Latitude": "64.62480164",
+    "Longitude": "21.07690048"
+  },
+  "UME": {
+    "Name": "Ume� Airport",
+    "Latitude": "63.79180145",
+    "Longitude": "20.28280067"
+  },
+  "VHM": {
+    "Name": "Vilhelmina Airport",
+    "Latitude": "64.57910156",
+    "Longitude": "16.83359909"
+  },
+  "AJR": {
+    "Name": "Arvidsjaur Airport",
+    "Latitude": "65.59030151",
+    "Longitude": "19.28190041"
+  },
+  "ORB": {
+    "Name": "�rebro Airport",
+    "Latitude": "59.22370148",
+    "Longitude": "15.03800011"
+  },
+  "VST": {
+    "Name": "Stockholm V�ster�s Airport",
+    "Latitude": "59.58940125",
+    "Longitude": "16.63360023"
+  },
+  "LLA": {
+    "Name": "Lule� Airport",
+    "Latitude": "65.54380035",
+    "Longitude": "22.12199974"
+  },
+  "ARN": {
+    "Name": "Stockholm-Arlanda Airport",
+    "Latitude": "59.65190125",
+    "Longitude": "17.91860008"
+  },
+  "BMA": {
+    "Name": "Stockholm-Bromma Airport",
+    "Latitude": "59.35440063",
+    "Longitude": "17.94169998"
+  },
+  "BLE": {
+    "Name": "Borlange Airport",
+    "Latitude": "60.42200089",
+    "Longitude": "15.51519966"
+  },
+  "HLF": {
+    "Name": "Hultsfred Airport",
+    "Latitude": "57.525799",
+    "Longitude": "15.8233"
+  },
+  "GVX": {
+    "Name": "G�vle Sandviken Airport",
+    "Latitude": "60.59329987",
+    "Longitude": "16.95140076"
+  },
+  "LPI": {
+    "Name": "Link�ping City Airport",
+    "Latitude": "58.40620041",
+    "Longitude": "15.68050003"
+  },
+  "NRK": {
+    "Name": "Norrk�ping Airport",
+    "Latitude": "58.5862999",
+    "Longitude": "16.25060081"
+  },
+  "EKT": {
+    "Name": "Eskilstuna Airport",
+    "Latitude": "59.35110092",
+    "Longitude": "16.70840073"
+  },
+  "VBY": {
+    "Name": "Visby Airport",
+    "Latitude": "57.66279984",
+    "Longitude": "18.34620094"
+  },
+  "SPM": {
+    "Name": "Spangdahlem Air Base",
+    "Latitude": "49.97269821",
+    "Longitude": "6.692500114"
+  },
+  "RMS": {
+    "Name": "Ramstein Air Base",
+    "Latitude": "49.43690109",
+    "Longitude": "7.600279808"
+  },
+  "GHF": {
+    "Name": "[Duplicate] Giebelstadt Army Air Field",
+    "Latitude": "49.64810181",
+    "Longitude": "9.966489792"
+  },
+  "ZCN": {
+    "Name": "Celle Airport",
+    "Latitude": "52.59120178",
+    "Longitude": "10.02210045"
+  },
+  "FRZ": {
+    "Name": "Fritzlar Airport",
+    "Latitude": "51.1146",
+    "Longitude": "9.286"
+  },
+  "ZNF": {
+    "Name": "Hanau Army Air Field",
+    "Latitude": "50.169201",
+    "Longitude": "8.96159"
+  },
+  "KZG": {
+    "Name": "Flugplatz Kitzingen",
+    "Latitude": "49.743099",
+    "Longitude": "10.2006"
+  },
+  "FCN": {
+    "Name": "Nordholz Naval Airbase",
+    "Latitude": "53.7677002",
+    "Longitude": "8.658499718"
+  },
+  "GKE": {
+    "Name": "Geilenkirchen Air Base",
+    "Latitude": "50.9608",
+    "Longitude": "6.04242"
+  },
+  "RLG": {
+    "Name": "Rostock-Laage Airport",
+    "Latitude": "53.91820145",
+    "Longitude": "12.27830029"
+  },
+  "WBG": {
+    "Name": "Schleswig Air Base",
+    "Latitude": "54.459301",
+    "Longitude": "9.51633"
+  },
+  "WIE": {
+    "Name": "Wiesbaden Army Airfield",
+    "Latitude": "50.04980087",
+    "Longitude": "8.325400352"
+  },
+  "FEL": {
+    "Name": "F�rstenfeldbruck Air Base",
+    "Latitude": "48.205555",
+    "Longitude": "11.266944"
+  }
+}
