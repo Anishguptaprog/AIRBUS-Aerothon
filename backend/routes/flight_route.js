@@ -13,7 +13,6 @@ router.get("/get_shortest_route/:source_airport_id/to/:destination_airport_id", 
   let source_airport_id = req.params.source_airport_id;
   let destination_airport_id = req.params.destination_airport_id;
   let shortest_path = shortest_path_util.get_shortest_path(source_airport_id, destination_airport_id);
-
   res.statusCode = 200;
   res.setHeader("Content-Type", "application/json");
   res.json(shortest_path);

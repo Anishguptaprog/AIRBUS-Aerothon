@@ -80,7 +80,7 @@ function get_shortest_path(source_airport_id, destination_airport_id) {
   }
   const adjacencyList = createAdjacencyList(routesWithFinalWeights);
 
-  const { shortestPath } = dijkstra(adjacencyList, 'ABZ', 'TUN');
+  const { shortestPath } = dijkstra(adjacencyList, source_airport_id, destination_airport_id);
 
   function createRoutes(routeData, routeArray) {
     const routes = [];
