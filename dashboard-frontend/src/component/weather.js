@@ -55,12 +55,19 @@
 import React, { useState, useEffect, useRef } from 'react';
 import Chart from 'chart.js/auto';
 
-const Weather = ({ waypoints }) => {
+const Weather = ({ departureAirport,arrivalAirport,departureAirports,arrivalAirports }) => {
+  // console.log(waypoints)
   const [weatherData, setWeatherData] = useState([]);
   const weatherChartRef = useRef(null);
   const [safeForFlight, setSafeForFlight] = useState(true);
   useEffect(() => {
     const fetchWeatherData = async () => {
+      // console.log(departureAirports)
+            if (departureAirport && arrivalAirport) {
+        const waypoints = [
+          { lat: departureAirports[departureAirport].Latitude, lon: departureAirports[departureAirport].Longitude },
+          { lat: arrivalAirports[arrivalAirport].Latitude, lon: arrivalAirports[arrivalAirport].Longitude }
+        ];
       const weatherPromises = waypoints.map(async (point) => {
         const response = await fetch(
           `https://api.open-meteo.com/v1/forecast?latitude=${point.lat}&longitude=${point.lon}&hourly=temperature_2m,relative_humidity_2m,precipitation_probability,cloud_cover,visibility,wind_speed_10m,wind_direction_10m,wind_gusts_10m&forecast_days=1`
@@ -76,9 +83,9 @@ const Weather = ({ waypoints }) => {
       const results = await Promise.all(weatherPromises);
       setWeatherData(results);
     };
-
+  }
     fetchWeatherData();
-  }, [waypoints]);
+  }, [departureAirport, arrivalAirport, departureAirports, arrivalAirports]);
 
   useEffect(() => {
     if (weatherData.length > 0) {
@@ -192,7 +199,7 @@ const Weather = ({ waypoints }) => {
   }, [weatherData]);
   const checkWeatherConditions = (weather) => {
     // Define thresholds or criteria for safe flight conditions
-    const temperatureThreshold = 10; // Example threshold in Celsius
+    const temperatureThreshold = 50; // Example threshold in Celsius
     const windSpeedThreshold = 20; // Example threshold in m/s
     // Add more thresholds for humidity, visibility, etc.
 

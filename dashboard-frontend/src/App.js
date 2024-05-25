@@ -6,10 +6,36 @@ import FlightStatsChart from './component/FlightStatusChart/FlightStatusChart';
 import Weather from './component/weather';
 import { alerts, flightInfo, routes, flightStats } from './data/dummyData';
 import './App.css';
-
+import AirportDropdown from './component/AirportDropdown';
+import axios from 'axios';
 
 const App = () => {
   const [currentFlightIndex, setCurrentFlightIndex] = useState(0);
+  // const [departureAirport, setDepartureAirport] = useState(null);
+  // const [arrivalAirport, setArrivalAirport] = useState(null);
+  const [departureAirports, setDepartureAirports] = useState([]);
+  const [arrivalAirports, setArrivalAirports] = useState([]);
+  useEffect(()=>{
+    axios.get('http://localhost:3001/airport').then((res)=>{
+    const data = res.data
+    const a_id = data
+    setDepartureAirports(a_id)
+    setArrivalAirports(a_id)
+  }
+  )
+  },[])
+  
+  // const departureAirports = ['JFK', 'LHR', 'ATL', 'ORD'];
+  // const arrivalAirports = ['LAX', 'SFO', 'ORD', 'DEN'];
+  const [departureAirport, setDepartureAirport] = useState('');
+  const [arrivalAirport, setArrivalAirport] = useState('');
+  const handleDepartureChange = (event) => {
+    setDepartureAirport(event.target.value);
+  };
+
+  const handleArrivalChange = (event) => {
+    setArrivalAirport(event.target.value);
+  };
 
   useEffect(() => {
     const intervalId = setInterval(() => {
@@ -40,11 +66,33 @@ const App = () => {
         </div>
         <div className="right-panel">
           <FlightInfoPanel flightInfo={currentFlight} onNext={handleNext} onPrev={handlePrev} />
+          <AirportDropdown
+            departureAirport={departureAirport}
+            arrivalAirport={arrivalAirport}
+            handleDepartureChange={handleDepartureChange}
+            handleArrivalChange={ handleArrivalChange}
+            departureAirports={Object.keys(departureAirports)}
+            arrivalAirports={Object.keys(arrivalAirports)}
+          />
         </div>
       </div>
-      {highlightedRoute && <Weather waypoints={highlightedRoute.waypoints} />}
+      {highlightedRoute && (
+        <Weather
+          // waypoints={highlightedRoute.waypoints}
+          departureAirport={departureAirport}
+          arrivalAirport={arrivalAirport}
+          departureAirports={departureAirports}
+          arrivalAirports={arrivalAirports}
+          
+        />)}
       <div className="dashboard">
-        <RoutePlanning routes={routes} highlightedRoute={highlightedRoute} />
+        {/* <RoutePlanning routes={routes} highlightedRoute={highlightedRoute} /> */}
+        <RoutePlanning 
+        departureAirport={departureAirport}
+          arrivalAirport={arrivalAirport}
+          departureAirports={departureAirports}
+          arrivalAirports={arrivalAirports}
+          />
       </div>
       <div className="bottom-panel">
         <FlightStatsChart data={flightStats} options={{ responsive: true, maintainAspectRatio: false }} />
